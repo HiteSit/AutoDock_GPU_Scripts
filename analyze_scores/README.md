@@ -1,6 +1,7 @@
 The program requires:
 
 - pandas = conda install -c anaconda pandas
+- numpy = conda install -c anaconda numpy
 - rdkit = conda install -c conda-forge rdkit
 - openbabel = conda install -c conda-forge openbabel
 
