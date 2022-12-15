@@ -1,3 +1,9 @@
+# Author: Dr. Riccardo Fusco
+# Copyright Riccardo Fusco 2022
+
+#!/usr/bin/env python
+# coding: utf-8
+
 import glob, os, shutil
 import re
 import pdb
